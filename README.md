@@ -13,6 +13,9 @@
 - 💞️ I’m looking to collaborate on beginner-friendly coding projects (especially in C++).
       Exploring ideas that help me learn more about programming, even if they're outside my 
       current knowledge!
+- 📫 How to Reach Me
+     Email : ayesha.tahir.dhanoooo@gmail.com
+     LinkedIn : https://www.linkedin.com/in/ayesha-tahir-705817338
 
 <!---
 Ayeshaa-Taahir/Ayeshaa-Taahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
