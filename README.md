@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayesha+Tahir+👩‍💻;+1️⃣9️⃣+Year+Old;+BSCS+Student🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayesha+Tahir+👩‍💻;+1️⃣9️⃣+Years+Old;+BSCS+Student🎓" />
 </h1>
 
 <p align="left"> 
@@ -9,7 +9,6 @@
 ### 👩‍💻 About Me
 - 🎓 **Computer Science student** (First Semester)
 - 🖥️ **Passionate about C++ and algorithmic problem-solving**
-- 🍳 **Love cooking and experimenting with new recipes**
 - 🛠️ **Interested in Git, GitHub, and open-source collaboration**
 
 ### 🛠 Language and Tools
@@ -19,9 +18,9 @@
 
 ### 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-tahir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-tahir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ayesha-tahir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayeshaa-Taahir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayeshaa-Taahir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ayeshaa-Taahir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ### 🚀 My Project
