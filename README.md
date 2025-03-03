@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ayesha-tahir&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-tahir" /> 
+  <img src="https://komarev.com/ghpvc/?username=Ayeshaa-Taahir&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-tahir" /> 
 </p>
 
 ### 👩‍💻 About Me
@@ -13,7 +13,7 @@
 
 ### 🛠 Language and Tools
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=javascript,java,css,html,cpp,java,vscode,github,figma" />
+   <img src="https://skillicons.dev/icons?i=javascript,css,html,cpp,java,vscode,github,figma" />
 </div>
 
 ### 📊 My Stats
