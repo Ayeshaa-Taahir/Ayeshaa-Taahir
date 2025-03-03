@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayesha+Tahir+👩‍💻;+1️⃣9️⃣+Years+Old;+BSCS+Student🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayesha+Tahir+👩‍💻;+18+Years+Old;+BSCS+Student🎓" />
 </h1>
 
 <p align="left"> 
