@@ -13,7 +13,7 @@
 
 ### 🛠 Language and Toolsp
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=javascript,css,html,cpp,java,python,vscode,pycharm,dev c++,github,figma" />
+   <img src="https://skillicons.dev/icons?i=javascript,css,html,cpp,java,python,vscode,pycharm,Dev-C++,github,figma" />
 </div>
 
 ### 📊 My Stats
