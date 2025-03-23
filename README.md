@@ -28,7 +28,7 @@
      also have a diet plan
   
 ### 📫 How to Reach Me
-- 📧 Email: **ayesha.tahir.dhanoooo@gmail.com**
+- 📧 Email: **areeshatahir975@gmail.com**
 - 🔗 LinkedIn: [Ayesha Tahir](https://www.linkedin.com/in/ayesha-tahir-705817338)
 
 <!---
