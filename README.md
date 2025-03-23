@@ -11,9 +11,9 @@
 - 🖥️ **Passionate about C++ and algorithmic problem-solving**
 - 🛠️ **Interested in Git, GitHub, and open-source collaboration**
 
-### 🛠 Language and Tools
+### 🛠 Language and Toolsp
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=javascript,css,html,cpp,java,vscode,github,figma,python" />
+   <img src="https://skillicons.dev/icons?i=javascript,css,html,cpp,java,python,vscode,pycharm,github,figma" />
 </div>
 
 ### 📊 My Stats
