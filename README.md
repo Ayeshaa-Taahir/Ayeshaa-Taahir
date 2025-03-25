@@ -25,7 +25,9 @@
 
 ### 🚀 My Project
 - 🔹 [Fitness Tracker](https://github.com/Ayeshaa-Taahir/Fitness-Tracker-.git) - This project is designed to help users track their fitness goals, monitor progress, and stay motivated on their health journey. Built using HTML, CSS and JavaScript, it offers features like:
-- 
+- Workout tracking
+- Calorie & step monitoring
+- Progress analysis
   
 ### 📫 How to Reach Me
 - 📧 Email: **areeshatahir975@gmail.com**
