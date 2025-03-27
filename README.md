@@ -28,6 +28,7 @@
 - Workout tracking
 - Calorie & step monitoring
 - Progress analysis
+
  🔹 [Cafe Management System](https://github.com/manallodhi/Cafe-Management-System.git) - This project is a console-based application designed to streamline the process of ordering food and beverages at a cafe. The program is written in C++ and incorporates various features such as a menu display, order placement, user information collection, and order confirmation, it offers features like:
 - Welcome Message
 - Menu List
