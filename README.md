@@ -24,11 +24,11 @@
 </div>
 
 ### 🚀 My Project
-- 🔹 [Fitness Tracker](https://github.com/Ayeshaa-Taahir/Fitness-Tracker-.git) - This project is designed to help users track their fitness goals, monitor progress, and stay motivated on their health journey. Built using HTML, CSS and JavaScript, it offers features like:
+ 🔹 [Fitness Tracker](https://github.com/Ayeshaa-Taahir/Fitness-Tracker-.git) - This project is designed to help users track their fitness goals, monitor progress, and stay motivated on their health journey. Built using HTML, CSS and JavaScript, it offers features like:
 - Workout tracking
 - Calorie & step monitoring
 - Progress analysis
-- 🔹 [Cafe Management System](https://github.com/manallodhi/Cafe-Management-System.git) - This project is a console-based application designed to streamline the process of ordering food and beverages at a cafe. The program is written in C++ and incorporates various features such as a menu display, order placement, user information collection, and order confirmation, it offers features like:
+ 🔹 [Cafe Management System](https://github.com/manallodhi/Cafe-Management-System.git) - This project is a console-based application designed to streamline the process of ordering food and beverages at a cafe. The program is written in C++ and incorporates various features such as a menu display, order placement, user information collection, and order confirmation, it offers features like:
 - Welcome Message
 - Menu List
 - Order Confirmation
