@@ -28,6 +28,8 @@
 - Workout tracking
 - Calorie & step monitoring
 - Progress analysis
+- 🔹 [Fitness Tracker](https://github.com/manallodhi/Cafe-Management-System.git) - The Cafe Management System is a console-based application designed to streamline the process of ordering food and beverages at a cafe. The program is written in C++ and incorporates various features such as a menu display, order placement, user information collection, and order confirmation, it offers features like:
+
   
 ### 📫 How to Reach Me
 - 📧 Email: **areeshatahir975@gmail.com**
