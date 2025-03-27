@@ -29,7 +29,12 @@
 - Calorie & step monitoring
 - Progress analysis
 - 🔹 [Fitness Tracker](https://github.com/manallodhi/Cafe-Management-System.git) - The Cafe Management System is a console-based application designed to streamline the process of ordering food and beverages at a cafe. The program is written in C++ and incorporates various features such as a menu display, order placement, user information collection, and order confirmation, it offers features like:
-
+- Welcome Message: Greets users with "Welcome to Bam Cafe" at the program's start.
+- Menu List: Displays a list of items with prices for users to choose from.
+- Order Confirmation: Displays the ordered items, total price, and estimated delivery time.
+- Game Options: Engages users with two interactive games for entertainment.
+- File Handling: Saves order and user information to a file for future reference.
+- Exception Handling: Ensures the program runs smoothly by handling invalid inputs and file errors.
   
 ### 📫 How to Reach Me
 - 📧 Email: **areeshatahir975@gmail.com**
