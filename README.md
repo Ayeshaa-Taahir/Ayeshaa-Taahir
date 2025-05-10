@@ -29,7 +29,7 @@
 - Calorie & step monitoring
 - Progress analysis
 
- 🔹 [Trip PLanner](trip_planner.py) - This project was built with Python, developed as part of my Campus Ambassador Program with a travel agency. It aims to create an engaging and informative tool for travelers interested in exploring the scenic beauty of Northern Pakistan.It helps both local and foreign travelers plan their trips efficiently by providing features like:
+ 🔹 [Trip PLanner](https://github.com/Ayeshaa-Taahir/Python-basics/blob/81e8c841147e985e67d3004b57797edd12b5c367/trip_planner.py) - This project was built with Python, developed as part of my Campus Ambassador Program with a travel agency. It aims to create an engaging and informative tool for travelers interested in exploring the scenic beauty of Northern Pakistan.It helps both local and foreign travelers plan their trips efficiently by providing features like:
  - Destination Selector
  - Travel Customization
  - Budget Insights
