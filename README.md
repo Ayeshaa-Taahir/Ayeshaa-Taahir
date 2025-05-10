@@ -29,13 +29,14 @@
 - Calorie & step monitoring
 - Progress analysis
 
- 🔹 [Cafe Management System](https://github.com/manallodhi/Cafe-Management-System.git) - This project is a console-based application designed to streamline the process of ordering food and beverages at a cafe. The program is written in C++ and incorporates various features such as a menu display, order placement, user information collection, and order confirmation, it offers features like:
-- Welcome Message
-- Menu List
-- Order Confirmation
-- Game Options
-- File Handling
-- Exception Handling
+ 🔹 [Trip PLanner](trip_planner.py) - This project was developed as part of my Campus Ambassador Program with a travel agency, aiming to create an engaging and informative tool for travelers interested in exploring the scenic beauty of Northern Pakistan.
+It helps travelers locals and foreigners plan their trips efficiently by providing budget estimates, cultural highlights, and travel options for popular destinations.
+- Destination Selector
+- Travel Customization 
+- Budget Insights
+- Cultural Snapshots
+  Built With:
+  Python
   
 ### 📫 How to Reach Me
 - 📧 Email: **areeshatahir975@gmail.com**
