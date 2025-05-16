@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 **Computer Science student** (First Semester)
-- 🖥️ **Passionate about C++ and algorithmic problem-solving**
+- 🖥️ **Passionate about algorithmic problem-solving**
 - 🛠️ **Interested in Git, GitHub, and open-source collaboration**
 
 ### 🛠 Language and Toolsp
